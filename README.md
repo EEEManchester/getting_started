@@ -15,3 +15,8 @@
 ## For writing documentation in GitHub (e.g., README files)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+## Setting up SSH keys
+
+[SSH Keys](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
